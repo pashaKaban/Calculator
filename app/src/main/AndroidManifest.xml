@@ -20,8 +20,9 @@
                 android:name=".SimpleCalculate"
                 android:label="Режим: Обычный">
         </activity>
-        <activity android:name=".IngeneerCalculate"
-                  android:label="Режим: Инженерный">
+        <activity
+                android:name=".IngeneerCalculate"
+                android:label="Режим: Инженерный">
         </activity>
     </application>
 

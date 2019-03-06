@@ -4,10 +4,6 @@
     <string name="Result">Result</string>string>
     <string-array name="list">List type
         <item>Обычный</item>
-        <item>Программист</item>
         <item>Инженерный</item>
-        <item>Вычисление даты</item>
     </string-array>
-
-
 </resources>
